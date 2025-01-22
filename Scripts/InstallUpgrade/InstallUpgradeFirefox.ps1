@@ -1,0 +1,1 @@
+winget install --id=Mozilla.Firefox  -e --source winget --accept-package-agreements --silent
